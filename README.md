@@ -1,0 +1,2 @@
+# AI-Project
+Checkers game
